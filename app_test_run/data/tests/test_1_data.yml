@@ -1,0 +1,10 @@
+id: 1
+image: daignosis
+createdat: 2024-04-27T14:37:43.849190334Z
+relayaddress: localhost
+queryinterval: 2
+dirs:
+- .
+- .
+gendir: .
+resultdir: /data/tests
